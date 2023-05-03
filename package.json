@@ -1,0 +1,16 @@
+{
+  "name": "shop2",
+  "version": "1.0.0",
+  "description": "this is testing app2",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mit",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
